@@ -1,3 +1,4 @@
-boss, lee2244, Lee, Jumi
+role,NetID,LastName,FirstName
+boss,lee2244,Lee,Jumi
 employee,seltgani,Eltgani,Safa
 
